@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tend0pain
-- 👀 I’m learning web development.
-- 🌱 I’m currently trying to get experience and learn new things.
-- 💞️ I’m looking to collaborate on any projects that I can contribute to as a beginner.
+- 👀 I’m learning AI.
+- 🌱 I’m currently trying to get experience in various fields.
+- 💞️ I’m looking to collaborate on any projects that I can contribute to.
 - 📫 You can Email me @vickyvirus258@gmail.com
 
 <!---
