@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tend0pain
-- 👀 I’m learning AI.
-- 🌱 I’m currently trying to get experience in various fields.
+- 👋 Hi, I’m Vicky.
+- 👀 I’m learning about AI.
+- 🌱 I’m currently trying to make projects and connect the dots between varioud techniques and the underlying Math.
 - 💞️ I’m looking to collaborate on any projects that I can contribute to.
 - 📫 You can Email me @vickyvirus258@gmail.com
 
